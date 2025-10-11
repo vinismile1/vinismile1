@@ -67,7 +67,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-60A5FA?style=for-the-badge&logo=react&logoColor=white)
 
-###🧩Backend & Databases
+### 🧩**Backend & Databases**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-65A30D?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-475569?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-059669?style=for-the-badge&logo=mongodb&logoColor=white)
