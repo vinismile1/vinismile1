@@ -120,12 +120,12 @@ class Vini {
 
 ---
 
-<div align="center">
+<!--<div align="center">-->
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinismile1&theme=midnight-purple&hide_border=true&bg_color=0D1117&color=C084FC&line=A78BFA&point=F5D0FE" alt="Contribution Graph"/>
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinismile1&theme=midnight-purple&hide_border=true&bg_color=0D1117&color=C084FC&line=A78BFA&point=F5D0FE" alt="Contribution Graph"/>-->
 
-</div>
+<!--</div>-->
 
 <p align="center">
   ✨ “Every commit adds another star to your galaxy.” ✨  
