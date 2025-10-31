@@ -112,11 +112,11 @@ class Vini {
 ---
 
 <div align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinismile1&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF" alt="GitHub Streak"/>
-
+  <!-- 🟣 Fixed Streak Stats (DemoLab) -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=vinismile1&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF" alt="GitHub Streak"/>
 </div>
+
+
 
 ---
 
