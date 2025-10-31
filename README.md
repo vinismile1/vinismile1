@@ -6,8 +6,9 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,7,10,12&height=200&section=header&text=Welcome%20to%20My%20Code%20Galaxy&fontSize=35&fontColor=fff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,7,10,12&height=200&section=header&text=Sneha%20Mishra%20welcomes%20you%20with%20a%20smile%20🌸&fontSize=35&fontColor=fff&fontAlignY=35" width="100%"/>
 </div>
+
 
 
 ---
@@ -109,12 +110,12 @@ class Vini {
 
 </div>
 
----
+<!---
 
 <div align="center">
-  <!-- 🟣 Fixed Streak Stats (DemoLab) -->
+  <!-- 🟣 Fixed Streak Stats (DemoLab) 
   <img height="180em" src="https://streak-stats.demolab.com/?user=vinismile1&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=E9D5FF" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 
 
