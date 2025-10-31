@@ -1,16 +1,14 @@
 <!-- 🌌✨ Galaxy-Themed GitHub Profile README ✨🌌 -->
+
+<!-- Banner -->
+<!-- 🌸 Sneha Mishra’s Galaxy Header 🌸 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Sneha%20Mishra&fontSize=40&fontAlignY=38&desc=welcomes%20you%20with%20a%20smile%20🌸&descAlignY=60&animation=fadeIn&color=0:7C3AED,100:C084FC&fontColor=ffffff&font=Orbitron" width="100%"/>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=850&lines=Hey+there+👋,+I'm+Sneha+Mishra!;CSE+Student+%7C+Aspiring+Full+Stack+Developer;Exploring+the+Universe+of+Code+🚀;Building+Tech+Stars+with+Java+💫" alt="Typing SVG" />
 </div>
-
-
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,7,10,12&height=230&section=header&text=Sneha%20Mishra%0Awelcomes%20you%20with%20a%20smile%20🌸&fontSize=40&fontColor=ffffff&fontAlignY=35&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-
-
 
 ---
 
