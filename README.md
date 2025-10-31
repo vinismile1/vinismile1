@@ -6,8 +6,9 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,7,10,12&height=200&section=header&text=Sneha%20Mishra%20welcomes%20you%20with%20a%20smile%20🌸&fontSize=35&fontColor=fff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,7,10,12&height=230&section=header&text=Sneha%20Mishra%0Awelcomes%20you%20with%20a%20smile%20🌸&fontSize=40&fontColor=ffffff&fontAlignY=35&descAlignY=60&descAlign=50" width="100%"/>
 </div>
+
 
 
 
